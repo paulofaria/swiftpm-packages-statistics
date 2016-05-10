@@ -30,7 +30,7 @@ Analyzed 1283 packages
 **Answer**: "Serverside Swift libraries and utilities from Zewo, IBM, qutheory and kylef."  
 **Comments**: *Many of these are depended on by packages from the same owner, so these results might not exactly reflect the number of unique developers who choose to import these libraries.*  
 ```
-Top 10 most popular direct dependencies
+Top 20 most popular direct dependencies
  1.  -> [25 depend on] /open-swift/C7
  2.  -> [23 depend on] /IBM-Swift/Kitura
  3.  -> [21 depend on] /Zewo/String
