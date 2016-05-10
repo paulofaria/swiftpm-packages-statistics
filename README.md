@@ -26,4 +26,4 @@ Analyzed 1283 packages
 ```
 
 ## More
-Please let me know what you'd like to know about the SwiftPM packages on GitHub. I'm still in the process of building up the crawler, but eventually the data will be available directly for your own analysis.
+Please let me know what you'd like to know about the SwiftPM packages on GitHub by creating an issue. I'm still in the process of building up the crawler, but eventually the data will be available directly for your own analysis.
