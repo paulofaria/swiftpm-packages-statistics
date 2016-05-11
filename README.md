@@ -31,26 +31,26 @@ Analyzed 1283 packages
 **Comments**: *Many of these are depended on by packages from the same owner, so these results might not exactly reflect the number of unique developers who choose to import these libraries.*  
 ```
 Top 20 most popular direct dependencies
- 1.  -> [25 depend on] /open-swift/C7
- 2.  -> [23 depend on] /IBM-Swift/Kitura
- 3.  -> [21 depend on] /Zewo/String
- 4.  -> [17 depend on] /open-swift/S4
- 5.  -> [17 depend on] /Zewo/HTTP
- 6.  -> [17 depend on] /kylef/spectre-build
- 7.  -> [16 depend on] /Zewo/CURIParser
- 8.  -> [15 depend on] /IBM-Swift/HeliumLogger
- 9.  -> [14 depend on] /Zewo/JSON
- 10. -> [13 depend on] /IBM-Swift/Kitura-router
- 11. -> [12 depend on] /Zewo/CHTTPParser
- 12. -> [12 depend on] /Zewo/Router
- 13. -> [12 depend on] /nestproject/Nest
- 14. -> [12 depend on] /Zewo/MediaType
- 15. -> [11 depend on] /kylef/Curassow
- 16. -> [10 depend on] /qutheory/vapor-zewo-mustache
- 17. -> [10 depend on] /kylef/Commander
- 18. -> [ 9 depend on] /Zewo/HTTPParser
- 19. -> [ 9 depend on] /VeniceX/HTTPServer
- 20. -> [ 9 depend on] /kylef/PathKit
+ 1. ->  [25 depend on] /open-swift/c7
+ 2. ->  [23 depend on] /ibm-swift/kitura
+ 3. ->  [21 depend on] /zewo/string
+ 4. ->  [18 depend on] /open-swift/s4
+ 5. ->  [18 depend on] /kylef/spectre-build
+ 6. ->  [17 depend on] /zewo/http
+ 7. ->  [16 depend on] /zewo/curiparser
+ 8. ->  [15 depend on] /ibm-swift/heliumlogger
+ 9. ->  [14 depend on] /zewo/json
+ 10. -> [13 depend on] /ibm-swift/kitura-router
+ 11. -> [12 depend on] /zewo/mediatype
+ 12. -> [12 depend on] /nestproject/nest
+ 13. -> [12 depend on] /zewo/router
+ 14. -> [12 depend on] /zewo/chttpparser
+ 15. -> [11 depend on] /kylef/curassow
+ 16. -> [10 depend on] /kylef/commander
+ 17. -> [10 depend on] /qutheory/vapor-zewo-mustache
+ 18. -> [ 9 depend on] /venicex/file
+ 19. -> [ 9 depend on] /zewo/httpparser
+ 20. -> [ 9 depend on] /antitypical/result
 Total of 487 packages were used as a dependency at least once
 ```
 
