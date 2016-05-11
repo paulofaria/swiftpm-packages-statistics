@@ -9,14 +9,14 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 **Question**: "How many dependencies do most packages have?"  
 **Answer**: "Over 50% has none, less than 25% has one and then it levels off. And yes, one package has 56 dependencies."  
 ```
-   0 dep -> 695 packages [54.16%]
-   1 dep -> 295 packages [22.99%]
-   2 dep -> 158 packages [12.31%]
-   3 dep ->  74 packages [ 5.76%]
-   4 dep ->  23 packages [ 1.79%]
-   5 dep ->  19 packages [ 1.48%]
-   6 dep ->   6 packages [ 0.46%]
-   7 dep ->   5 packages [ 0.38%]
+   0 dep -> 687 packages [53.96%]
+   1 dep -> 294 packages [23.09%]
+   2 dep -> 157 packages [12.33%]
+   3 dep ->  73 packages [ 5.73%]
+   4 dep ->  24 packages [ 1.88%]
+   5 dep ->  19 packages [ 1.49%]
+   6 dep ->   5 packages [ 0.39%]
+   7 dep ->   6 packages [ 0.47%]
    8 dep ->   3 packages [ 0.23%]
    9 dep ->   2 packages [ 0.15%]
   13 dep ->   2 packages [ 0.15%]
@@ -25,38 +25,38 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 ## Most popular direct dependencies
 **Question**: "Which packages are the most popular direct dependencies?"  
-**Answer**: "Serverside Swift libraries and utilities from Zewo/VeniceX, IBM, open-swift, qutheory and kylef."  
+**Answer**: "Web server frameworks from qutheory, IBM and Zewo."  
 **Comments**: *Many of these are depended on by packages from the same owner, so these results might not exactly reflect the number of unique developers who choose to import these libraries.*  
 ```
 Top 10 most popular direct dependencies
-   1. -> [ 25 depend on] /open-swift/c7
-   2. -> [ 23 depend on] /ibm-swift/kitura
-   3. -> [ 21 depend on] /zewo/string
-   4. -> [ 18 depend on] /open-swift/s4
-   5. -> [ 18 depend on] /kylef/spectre-build
-   6. -> [ 17 depend on] /zewo/http
+   1. -> [ 49 depend on] /qutheory/vapor
+   2. -> [ 26 depend on] /open-swift/c7
+   3. -> [ 23 depend on] /ibm-swift/kitura
+   4. -> [ 21 depend on] /zewo/string
+   5. -> [ 18 depend on] /open-swift/s4
+   6. -> [ 18 depend on] /kylef/spectre-build
    7. -> [ 16 depend on] /zewo/curiparser
-   8. -> [ 15 depend on] /ibm-swift/heliumlogger
-   9. -> [ 14 depend on] /zewo/json
+   8. -> [ 16 depend on] /zewo/http
+   9. -> [ 15 depend on] /ibm-swift/heliumlogger
   10. -> [ 13 depend on] /ibm-swift/kitura-router
 ```
 
 ## Most popular indirect (transitive) dependencies
 **Question**: "Which are the most used packages? How many projects does my package run in?"  
-**Answer**: "More than direct dependencies, this one is dominated by Zewo and friends with their serverside Swift frameworks."  
+**Answer**: "Swift server utilities by Zewo and friends."  
 **Comments**: *Think of this as the number of projects that compile your package as part of their build process. The 'reach' of your code. Or, a cynic would see this as the number of projects you can break by deleting your project from GitHub.*  
 ```
 Top 10 most popular transitive dependencies
-   1. -> [ 170 depend on] /zewo/string
-   2. -> [ 148 depend on] /open-swift/s4
-   3. -> [ 141 depend on] /zewo/structureddata
-   4. -> [ 119 depend on] /zewo/mediatype
-   5. -> [  91 depend on] /zewo/curiparser
-   6. -> [  86 depend on] /zewo/json
-   7. -> [  82 depend on] /cryptokitten/cryptoessentials
-   8. -> [  74 depend on] /ketzusaka/strand
-   9. -> [  73 depend on] /cryptokitten/hmac
-  10. -> [  70 depend on] /ketzusaka/hummingbird
+   1. -> [ 216 depend on] /open-swift/c7
+   2. -> [ 168 depend on] /zewo/string
+   3. -> [ 146 depend on] /open-swift/s4
+   4. -> [ 139 depend on] /zewo/structureddata
+   5. -> [ 117 depend on] /zewo/mediatype
+   6. -> [  90 depend on] /zewo/curiparser
+   7. -> [  81 depend on] /cryptokitten/cryptoessentials
+   8. -> [  73 depend on] /ketzusaka/strand
+   9. -> [  72 depend on] /cryptokitten/hmac
+  10. -> [  70 depend on] /kylef/pathkit
 ```
 
 ## More
