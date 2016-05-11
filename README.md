@@ -27,7 +27,7 @@ Analyzed 1283 packages
 
 ## Most popular direct dependencies
 **Question**: "Which packages are the most popular direct dependencies?"  
-**Answer**: "Serverside Swift libraries and utilities from Zewo, IBM, qutheory and kylef."  
+**Answer**: "Serverside Swift libraries and utilities from Zewo/VeniceX, IBM, open-swift, qutheory and kylef."  
 **Comments**: *Many of these are depended on by packages from the same owner, so these results might not exactly reflect the number of unique developers who choose to import these libraries.*  
 ```
 Top 20 most popular direct dependencies
