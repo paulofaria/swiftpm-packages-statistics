@@ -42,9 +42,9 @@ Top 10 most popular direct dependencies
 ```
 
 ## Most popular indirect (transitive) dependencies
-**Question**: "Which are the most used packages? How many projects does my package run in?"
-**Answer**: "More than direct dependencies, this one is dominated by Zewo and friends with their serverside Swift frameworks."
-**Comments**: *Think of this as the number of projects that compile your package as part of their build process. The 'reach' of your code. Or, a cynic would see this as the number of projects you can break by deleting your project from GitHub.*
+**Question**: "Which are the most used packages? How many projects does my package run in?"  
+**Answer**: "More than direct dependencies, this one is dominated by Zewo and friends with their serverside Swift frameworks."  
+**Comments**: *Think of this as the number of projects that compile your package as part of their build process. The 'reach' of your code. Or, a cynic would see this as the number of projects you can break by deleting your project from GitHub.*  
 ```
 Top 10 most popular transitive dependencies
    1. -> [ 170 depend on] /zewo/string
