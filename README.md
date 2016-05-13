@@ -83,7 +83,7 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 ## Most popular authors of transitive dependencies
 **Question**: "Who creates the most used packages? Who's code are most packages running on?  
-**Answer**: "open-swift is a collaboration between qutheory and Zewo, so it's great to see that even among competition there are awesome things to be had when people work together. And Zewo (in the second place here) is the powerhorse behind the tens of tiny frameworks that most new serverside Swift code runs on."    
+**Answer**: "open-swift started as a collaboration between qutheory and Zewo, so it's great to see that even among competition there are awesome things to be had when people work together. And Zewo (in the second place here) is the powerhorse behind the tens of tiny frameworks that most new serverside Swift code runs on."    
 
 | Rank | # Dependees | Author |
 | --- | --- | --- |
