@@ -1,7 +1,7 @@
 
 # SwiftPM Packages on GitHub: Statistics
 
-> Last updated on 2016-05-20, analyzed 1392 packages
+> Last updated on 2016-05-20, analyzed 1407 packages
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
@@ -14,15 +14,15 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | # Dependencies | # Packages | % of Total |
 | --- | --- | --- |
-|   0 | 753 | 54.09% |
-|   1 | 323 | 23.20% |
-|   2 | 169 | 12.14% |
-|   3 |  84 |  6.03% |
-|   4 |  23 |  1.65% |
-|   5 |  20 |  1.43% |
+|   0 | 761 | 54.08% |
+|   1 | 326 | 23.16% |
+|   2 | 172 | 12.22% |
+|   3 |  84 |  5.97% |
+|   4 |  24 |   1.7% |
+|   5 |  20 |  1.42% |
 |   6 |   5 |  0.35% |
-|   7 |   6 |  0.43% |
-|   8 |   3 |  0.21% |
+|   7 |   4 |  0.28% |
+|   8 |   5 |  0.35% |
 |   9 |   1 |  0.07% |
 |  10 |   1 |  0.07% |
 |  11 |   1 |  0.07% |
@@ -40,12 +40,12 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 |   2. |  28 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
 |   3. |  25 | [/open-swift/c7](https://github.com/open-swift/c7) |
 |   4. |  22 | [/zewo/string](https://github.com/zewo/string) |
-|   5. |  18 | [/kylef/spectre-build](https://github.com/kylef/spectre-build) |
-|   6. |  18 | [/open-swift/s4](https://github.com/open-swift/s4) |
+|   5. |  18 | [/open-swift/s4](https://github.com/open-swift/s4) |
+|   6. |  18 | [/kylef/spectre-build](https://github.com/kylef/spectre-build) |
 |   7. |  17 | [/zewo/http](https://github.com/zewo/http) |
 |   8. |  17 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
 |   9. |  16 | [/zewo/curiparser](https://github.com/zewo/curiparser) |
-|  10. |  14 | [/kylef/commander](https://github.com/kylef/commander) |
+|  10. |  14 | [/ibm-swift/swiftyjson](https://github.com/ibm-swift/swiftyjson) |
 
 ## Most popular indirect (transitive) dependencies
 **Question**: "Which are the most used packages? How many projects does my package run in?"  
@@ -72,13 +72,13 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | Rank | # Dependees | Author |
 | --- | --- | --- |
 |   1. | 122 | [zewo](https://github.com/zewo) |
-|   2. |  74 | [ibm-swift](https://github.com/ibm-swift) |
+|   2. |  77 | [ibm-swift](https://github.com/ibm-swift) |
 |   3. |  70 | [qutheory](https://github.com/qutheory) |
 |   4. |  48 | [kylef](https://github.com/kylef) |
 |   5. |  43 | [venicex](https://github.com/venicex) |
 |   6. |  41 | [open-swift](https://github.com/open-swift) |
-|   7. |  19 | [noppoman](https://github.com/noppoman) |
-|   8. |  19 | [nestproject](https://github.com/nestproject) |
+|   7. |  20 | [nestproject](https://github.com/nestproject) |
+|   8. |  19 | [noppoman](https://github.com/noppoman) |
 |   9. |  17 | [elliottminns](https://github.com/elliottminns) |
 |  10. |  16 | [crossroadlabs](https://github.com/crossroadlabs) |
 
@@ -92,11 +92,11 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 |   2. | 214 | [zewo](https://github.com/zewo) |
 |   3. |  90 | [cryptokitten](https://github.com/cryptokitten) |
 |   4. |  88 | [qutheory](https://github.com/qutheory) |
-|   5. |  82 | [ketzusaka](https://github.com/ketzusaka) |
-|   6. |  80 | [ibm-swift](https://github.com/ibm-swift) |
+|   5. |  83 | [ibm-swift](https://github.com/ibm-swift) |
+|   6. |  82 | [ketzusaka](https://github.com/ketzusaka) |
 |   7. |  74 | [kylef](https://github.com/kylef) |
 |   8. |  65 | [venicex](https://github.com/venicex) |
-|   9. |  31 | [nestproject](https://github.com/nestproject) |
+|   9. |  32 | [nestproject](https://github.com/nestproject) |
 |  10. |  25 | [antitypical](https://github.com/antitypical) |
 
 ## More
