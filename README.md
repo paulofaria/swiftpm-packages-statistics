@@ -1,7 +1,7 @@
 
 # SwiftPM Packages on GitHub: Statistics
 
-> Last updated on 2016-06-23, analyzed 2012 packages
+> Last updated on 2016-06-24, analyzed 2042 packages
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
@@ -14,12 +14,12 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | # Dependencies | # Packages | % of Total |
 | --- | --- | --- |
-|   0 | 1108 | 55.06% |
-|   1 | 464 | 23.06% |
-|   2 | 240 | 11.92% |
-|   3 | 109 |  5.41% |
-|   4 |  35 |  1.73% |
-|   5 |  27 |  1.34% |
+|   0 | 1130 | 55.33% |
+|   1 | 469 | 22.96% |
+|   2 | 242 | 11.85% |
+|   3 | 110 |  5.38% |
+|   4 |  35 |  1.71% |
+|   5 |  27 |  1.32% |
 |   6 |   8 |  0.39% |
 |   7 |   5 |  0.24% |
 |   8 |   5 |  0.24% |
@@ -38,12 +38,12 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | Rank | # Dependees | Name |
 | --- | --- | --- |
 |   1. |  68 | [/qutheory/vapor](https://github.com/qutheory/vapor) |
-|   2. |  40 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
+|   2. |  41 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
 |   3. |  34 | [/open-swift/c7](https://github.com/open-swift/c7) |
 |   4. |  29 | [/open-swift/s4](https://github.com/open-swift/s4) |
 |   5. |  27 | [/zewo/http](https://github.com/zewo/http) |
-|   6. |  26 | [/kylef/commander](https://github.com/kylef/commander) |
-|   7. |  26 | [/zewo/string](https://github.com/zewo/string) |
+|   6. |  26 | [/zewo/string](https://github.com/zewo/string) |
+|   7. |  26 | [/kylef/commander](https://github.com/kylef/commander) |
 |   8. |  25 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
 |   9. |  21 | [/zewo/json](https://github.com/zewo/json) |
 |  10. |  20 | [/kylef/spectre-build](https://github.com/kylef/spectre-build) |
@@ -73,8 +73,8 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | Rank | # Dependees | Author |
 | --- | --- | --- |
 |   1. | 169 | [zewo](https://github.com/zewo) |
-|   2. | 101 | [ibm-swift](https://github.com/ibm-swift) |
-|   3. |  91 | [qutheory](https://github.com/qutheory) |
+|   2. | 103 | [ibm-swift](https://github.com/ibm-swift) |
+|   3. |  92 | [qutheory](https://github.com/qutheory) |
 |   4. |  68 | [kylef](https://github.com/kylef) |
 |   5. |  60 | [open-swift](https://github.com/open-swift) |
 |   6. |  56 | [venicex](https://github.com/venicex) |
@@ -92,8 +92,8 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 |   1. | 315 | [open-swift](https://github.com/open-swift) |
 |   2. | 226 | [zewo](https://github.com/zewo) |
 |   3. | 112 | [cryptokitten](https://github.com/cryptokitten) |
-|   4. | 111 | [qutheory](https://github.com/qutheory) |
-|   5. | 106 | [ibm-swift](https://github.com/ibm-swift) |
+|   4. | 112 | [qutheory](https://github.com/qutheory) |
+|   5. | 108 | [ibm-swift](https://github.com/ibm-swift) |
 |   6. | 103 | [ketzusaka](https://github.com/ketzusaka) |
 |   7. |  97 | [kylef](https://github.com/kylef) |
 |   8. |  97 | [czechboy0](https://github.com/czechboy0) |
