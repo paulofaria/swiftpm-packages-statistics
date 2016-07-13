@@ -5,7 +5,7 @@
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
-**The rate of growth is about 30 new packages per day (as of 07 2016).**
+**The rate of growth is about 30 new packages per day (as of July 2016).**
 
 ## Number of dependencies
 **Question**: "How many dependencies do most packages have?"  
