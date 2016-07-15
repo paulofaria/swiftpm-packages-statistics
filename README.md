@@ -1,7 +1,7 @@
 
 # SwiftPM Packages on GitHub: Statistics
 
-> Last updated on 2016-07-14, analyzed 2228 packages
+> Last updated on 2016-07-15, analyzed 2239 packages
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
@@ -14,15 +14,15 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | # Dependencies | # Packages | % of Total |
 | --- | --- | --- |
-|   0 | 1237 | 55.52% |
-|   1 | 504 | 22.62% |
-|   2 | 270 | 12.11% |
-|   3 | 113 |  5.07% |
-|   4 |  39 |  1.75% |
+|   0 | 1241 | 55.42% |
+|   1 | 511 | 22.82% |
+|   2 | 270 | 12.05% |
+|   3 | 113 |  5.04% |
+|   4 |  39 |  1.74% |
 |   5 |  28 |  1.25% |
 |   6 |  10 |  0.44% |
-|   7 |   9 |   0.4% |
-|   8 |   6 |  0.26% |
+|   7 |   8 |  0.35% |
+|   8 |   7 |  0.31% |
 |   9 |   1 |  0.04% |
 |  10 |   3 |  0.13% |
 |  11 |   3 |  0.13% |
@@ -39,8 +39,8 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Name |
 | --- | --- | --- |
-|   1. |  79 | [/qutheory/vapor](https://github.com/qutheory/vapor) |
-|   2. |  51 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
+|   1. |  78 | [/qutheory/vapor](https://github.com/qutheory/vapor) |
+|   2. |  52 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
 |   3. |  37 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
 |   4. |  36 | [/open-swift/c7](https://github.com/open-swift/c7) |
 |   5. |  34 | [/open-swift/s4](https://github.com/open-swift/s4) |
@@ -77,8 +77,8 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | Rank | # Dependees | Author |
 | --- | --- | --- |
 |   1. | 176 | [zewo](https://github.com/zewo) |
-|   2. | 117 | [ibm-swift](https://github.com/ibm-swift) |
-|   3. | 110 | [qutheory](https://github.com/qutheory) |
+|   2. | 118 | [ibm-swift](https://github.com/ibm-swift) |
+|   3. | 109 | [qutheory](https://github.com/qutheory) |
 |   4. |  73 | [kylef](https://github.com/kylef) |
 |   5. |  65 | [open-swift](https://github.com/open-swift) |
 |   6. |  58 | [venicex](https://github.com/venicex) |
@@ -95,11 +95,11 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | Rank | # Dependees | Author |
 | --- | --- | --- |
 |   1. | 339 | [open-swift](https://github.com/open-swift) |
-|   2. | 244 | [zewo](https://github.com/zewo) |
+|   2. | 243 | [zewo](https://github.com/zewo) |
 |   3. | 128 | [qutheory](https://github.com/qutheory) |
 |   4. | 127 | [cryptokitten](https://github.com/cryptokitten) |
-|   5. | 122 | [czechboy0](https://github.com/czechboy0) |
-|   6. | 122 | [ibm-swift](https://github.com/ibm-swift) |
+|   5. | 123 | [ibm-swift](https://github.com/ibm-swift) |
+|   6. | 122 | [czechboy0](https://github.com/czechboy0) |
 |   7. | 120 | [ketzusaka](https://github.com/ketzusaka) |
 |   8. | 104 | [kylef](https://github.com/kylef) |
 |   9. |  92 | [venicex](https://github.com/venicex) |
