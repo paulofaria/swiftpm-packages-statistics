@@ -1,7 +1,7 @@
 
 # SwiftPM Packages on GitHub: Statistics
 
-> Last updated on 2016-07-25, analyzed 3349 packages
+> Last updated on 2016-07-26, analyzed 3362 packages
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
@@ -14,12 +14,12 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | # Dependencies | # Packages | % of Total |
 | --- | --- | --- |
-|   0 | 1939 | 57.89% |
-|   1 | 687 | 20.51% |
-|   2 | 375 | 11.19% |
-|   3 | 170 |  5.07% |
-|   4 |  72 |  2.14% |
-|   5 |  50 |  1.49% |
+|   0 | 1944 | 57.82% |
+|   1 | 692 | 20.58% |
+|   2 | 376 | 11.18% |
+|   3 | 170 |  5.05% |
+|   4 |  73 |  2.17% |
+|   5 |  51 |  1.51% |
 |   6 |  18 |  0.53% |
 |   7 |   9 |  0.26% |
 |   8 |   8 |  0.23% |
@@ -43,13 +43,13 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 |   1. | 100 | [/qutheory/vapor](https://github.com/qutheory/vapor) |
 |   2. |  53 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
 |   3. |  53 | [/open-swift/c7](https://github.com/open-swift/c7) |
-|   4. |  50 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
+|   4. |  51 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
 |   5. |  47 | [/zewo/string](https://github.com/zewo/string) |
-|   6. |  46 | [/open-swift/s4](https://github.com/open-swift/s4) |
-|   7. |  46 | [/kylef/commander](https://github.com/kylef/commander) |
+|   6. |  46 | [/kylef/commander](https://github.com/kylef/commander) |
+|   7. |  46 | [/open-swift/s4](https://github.com/open-swift/s4) |
 |   8. |  41 | [/kylef/spectre-build](https://github.com/kylef/spectre-build) |
 |   9. |  37 | [/zewo/http](https://github.com/zewo/http) |
-|  10. |  36 | [/zewo/json](https://github.com/zewo/json) |
+|  10. |  36 | [/nestproject/nest](https://github.com/nestproject/nest) |
 
 
 ## Most popular indirect (transitive) dependencies
@@ -59,7 +59,7 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Name |
 | --- | --- | --- |
-|   1. | 466 | [/open-swift/c7](https://github.com/open-swift/c7) |
+|   1. | 467 | [/open-swift/c7](https://github.com/open-swift/c7) |
 |   2. | 292 | [/open-swift/s4](https://github.com/open-swift/s4) |
 |   3. | 211 | [/zewo/string](https://github.com/zewo/string) |
 |   4. | 174 | [/kylef/spectre](https://github.com/kylef/spectre) |
@@ -77,9 +77,9 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Author |
 | --- | --- | --- |
-|   1. | 247 | [zewo](https://github.com/zewo) |
-|   2. | 156 | [ibm-swift](https://github.com/ibm-swift) |
-|   3. | 151 | [qutheory](https://github.com/qutheory) |
+|   1. | 248 | [zewo](https://github.com/zewo) |
+|   2. | 159 | [ibm-swift](https://github.com/ibm-swift) |
+|   3. | 153 | [qutheory](https://github.com/qutheory) |
 |   4. | 125 | [kylef](https://github.com/kylef) |
 |   5. |  94 | [open-swift](https://github.com/open-swift) |
 |   6. |  82 | [venicex](https://github.com/venicex) |
@@ -95,13 +95,13 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Author |
 | --- | --- | --- |
-|   1. | 466 | [open-swift](https://github.com/open-swift) |
-|   2. | 341 | [zewo](https://github.com/zewo) |
-|   3. | 177 | [qutheory](https://github.com/qutheory) |
+|   1. | 467 | [open-swift](https://github.com/open-swift) |
+|   2. | 342 | [zewo](https://github.com/zewo) |
+|   3. | 179 | [qutheory](https://github.com/qutheory) |
 |   4. | 174 | [kylef](https://github.com/kylef) |
 |   5. | 170 | [cryptokitten](https://github.com/cryptokitten) |
 |   6. | 169 | [ketzusaka](https://github.com/ketzusaka) |
-|   7. | 162 | [ibm-swift](https://github.com/ibm-swift) |
+|   7. | 165 | [ibm-swift](https://github.com/ibm-swift) |
 |   8. | 157 | [czechboy0](https://github.com/czechboy0) |
 |   9. | 124 | [venicex](https://github.com/venicex) |
 |  10. |  81 | [nestproject](https://github.com/nestproject) |
