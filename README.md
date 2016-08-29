@@ -1,7 +1,7 @@
 
 # SwiftPM Packages on GitHub: Statistics
 
-> Last updated on 2016-08-26, analyzed 3602 packages
+> Last updated on 2016-08-29, analyzed 3621 packages
 
 Automatically crawled from GitHub using my [swift-package-crawler](https://github.com/czechboy0/swift-package-crawler) tool. Below I present the data with a little bit of context.
 
@@ -30,29 +30,29 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-02-25-a | 26 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-03-01-a | 42 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-03-24-a | 48 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-04-12-a | 44 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-04-12-a | 43 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-04-25-a | 18 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-05-03-a | 67 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-05-09-a | 74 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-05-31-a | 33 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-06-06-a | 31 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-06-20-a | 56 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-07-25-a | 130 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-07-25-a | 116 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-07-29-a | 2 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-04-a | 47 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-07-a | 12 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-15-a | 11 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-18-a | 50 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-23-a | 1 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-04-a | 48 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-07-a | 9 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-15-a | 10 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-18-a | 51 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-23-a | 22 |
 | 3.0-DEVELOPMENT-SNAPSHOT-2016-08-24-a | 3 |
-| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-25-a | 1 |
+| 3.0-DEVELOPMENT-SNAPSHOT-2016-08-26-a | 2 |
 | 3.0-preview-1 | 1 |
 | 3.0-preview-1-SNAPSHOT-2016-05-31-a | 3 |
 | 3.0-PREVIEW-2 | 7 |
 | 3.0-PREVIEW-4 | 5 |
 | 3.0-PREVIEW-6 | 2 |
 | latest | 1 |
-| unknown | 2718 |
+| unknown | 2732 |
 
 
 ## Number of dependencies
@@ -62,12 +62,12 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | # Dependencies | # Packages | % of Total |
 | --- | --- | --- |
-|   0 | 2056 | 57.07% |
-|   1 | 760 | 21.09% |
-|   2 | 402 | 11.16% |
-|   3 | 185 |  5.13% |
-|   4 |  84 |  2.33% |
-|   5 |  52 |  1.44% |
+|   0 | 2069 | 57.13% |
+|   1 | 761 | 21.01% |
+|   2 | 404 | 11.15% |
+|   3 | 188 |  5.19% |
+|   4 |  84 |  2.31% |
+|   5 |  53 |  1.46% |
 |   6 |  23 |  0.63% |
 |   7 |  10 |  0.27% |
 |   8 |  10 |  0.27% |
@@ -75,7 +75,7 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 |  10 |   3 |  0.08% |
 |  11 |   4 |  0.11% |
 |  12 |   1 |  0.02% |
-|  13 |   4 |  0.11% |
+|  13 |   3 |  0.08% |
 |  16 |   1 |  0.02% |
 |  21 |   1 |  0.02% |
 |  59 |   1 |  0.02% |
@@ -88,16 +88,16 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Name |
 | --- | --- | --- |
-|   1. | 115 | [/vapor/vapor](https://github.com/vapor/vapor) |
+|   1. | 118 | [/vapor/vapor](https://github.com/vapor/vapor) |
 |   2. |  70 | [/ibm-swift/kitura](https://github.com/ibm-swift/kitura) |
 |   3. |  59 | [/ibm-swift/heliumlogger](https://github.com/ibm-swift/heliumlogger) |
-|   4. |  56 | [/open-swift/c7](https://github.com/open-swift/c7) |
+|   4. |  57 | [/open-swift/c7](https://github.com/open-swift/c7) |
 |   5. |  48 | [/zewo/string](https://github.com/zewo/string) |
 |   6. |  47 | [/kylef/commander](https://github.com/kylef/commander) |
 |   7. |  44 | [/open-swift/s4](https://github.com/open-swift/s4) |
 |   8. |  38 | [/kylef/spectre-build](https://github.com/kylef/spectre-build) |
 |   9. |  36 | [/nestproject/nest](https://github.com/nestproject/nest) |
-|  10. |  34 | [/zewo/json](https://github.com/zewo/json) |
+|  10. |  33 | [/zewo/json](https://github.com/zewo/json) |
 
 
 ## Most popular indirect (transitive) dependencies
@@ -107,16 +107,16 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Name |
 | --- | --- | --- |
-|   1. | 345 | [/open-swift/c7](https://github.com/open-swift/c7) |
-|   2. | 219 | [/zewo/string](https://github.com/zewo/string) |
-|   3. | 185 | [/vapor/polymorphic](https://github.com/vapor/polymorphic) |
-|   4. | 181 | [/open-swift/s4](https://github.com/open-swift/s4) |
-|   5. | 180 | [/vapor/path-indexable](https://github.com/vapor/path-indexable) |
-|   6. | 179 | [/vapor/node](https://github.com/vapor/node) |
-|   7. | 175 | [/czechboy0/socks](https://github.com/czechboy0/socks) |
-|   8. | 173 | [/zewo/curiparser](https://github.com/zewo/curiparser) |
-|   9. | 165 | [/vapor/fluent](https://github.com/vapor/fluent) |
-|  10. | 161 | [/vapor/core](https://github.com/vapor/core) |
+|   1. | 346 | [/open-swift/c7](https://github.com/open-swift/c7) |
+|   2. | 218 | [/zewo/string](https://github.com/zewo/string) |
+|   3. | 188 | [/vapor/polymorphic](https://github.com/vapor/polymorphic) |
+|   4. | 183 | [/vapor/path-indexable](https://github.com/vapor/path-indexable) |
+|   5. | 182 | [/vapor/node](https://github.com/vapor/node) |
+|   6. | 180 | [/open-swift/s4](https://github.com/open-swift/s4) |
+|   7. | 180 | [/czechboy0/socks](https://github.com/czechboy0/socks) |
+|   8. | 172 | [/zewo/curiparser](https://github.com/zewo/curiparser) |
+|   9. | 168 | [/vapor/fluent](https://github.com/vapor/fluent) |
+|  10. | 164 | [/vapor/core](https://github.com/vapor/core) |
 
 
 ## Most popular authors of direct dependencies
@@ -125,13 +125,13 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Author |
 | --- | --- | --- |
-|   1. | 251 | [zewo](https://github.com/zewo) |
-|   2. | 185 | [vapor](https://github.com/vapor) |
-|   3. | 179 | [ibm-swift](https://github.com/ibm-swift) |
+|   1. | 250 | [zewo](https://github.com/zewo) |
+|   2. | 188 | [vapor](https://github.com/vapor) |
+|   3. | 178 | [ibm-swift](https://github.com/ibm-swift) |
 |   4. | 122 | [kylef](https://github.com/kylef) |
-|   5. |  95 | [open-swift](https://github.com/open-swift) |
-|   6. |  80 | [venicex](https://github.com/venicex) |
-|   7. |  52 | [czechboy0](https://github.com/czechboy0) |
+|   5. |  96 | [open-swift](https://github.com/open-swift) |
+|   6. |  79 | [venicex](https://github.com/venicex) |
+|   7. |  54 | [czechboy0](https://github.com/czechboy0) |
 |   8. |  47 | [perfectlysoft](https://github.com/perfectlysoft) |
 |   9. |  45 | [nestproject](https://github.com/nestproject) |
 |  10. |  39 | [cryptokitten](https://github.com/cryptokitten) |
@@ -143,16 +143,16 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 
 | Rank | # Dependees | Author |
 | --- | --- | --- |
-|   1. | 345 | [open-swift](https://github.com/open-swift) |
-|   2. | 316 | [zewo](https://github.com/zewo) |
-|   3. | 218 | [vapor](https://github.com/vapor) |
-|   4. | 195 | [czechboy0](https://github.com/czechboy0) |
-|   5. | 185 | [ibm-swift](https://github.com/ibm-swift) |
+|   1. | 346 | [open-swift](https://github.com/open-swift) |
+|   2. | 315 | [zewo](https://github.com/zewo) |
+|   3. | 221 | [vapor](https://github.com/vapor) |
+|   4. | 200 | [czechboy0](https://github.com/czechboy0) |
+|   5. | 184 | [ibm-swift](https://github.com/ibm-swift) |
 |   6. | 159 | [kylef](https://github.com/kylef) |
-|   7. | 123 | [venicex](https://github.com/venicex) |
+|   7. | 122 | [venicex](https://github.com/venicex) |
 |   8. |  82 | [nestproject](https://github.com/nestproject) |
 |   9. |  64 | [cryptokitten](https://github.com/cryptokitten) |
-|  10. |  54 | [loganwright](https://github.com/loganwright) |
+|  10. |  57 | [loganwright](https://github.com/loganwright) |
 
 
 ## More
