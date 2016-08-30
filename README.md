@@ -8,7 +8,6 @@ Automatically crawled from GitHub using my [swift-package-crawler](https://githu
 **The rate of growth is about 30 new packages per day (as of August 2016).**
 
 ## Swift versions
-**Question**: "Which Swift versions are projects using?"
 
 | Version | # Packages |
 | --- | --- |
